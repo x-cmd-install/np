@@ -5,7 +5,7 @@ about:
   head: 4fa0a00
   archived: false
   latestVersion: "v12.1.0"
-  collectedAt: 2026-09-08T01:37:21Z
+  collectedAt: 2026-09-08T03:33:42Z
 timeline:
   created: 2015-08-16
   lastCommit: 2026-09-01
@@ -79,7 +79,7 @@ total:
   commit: 498
 ---
 path: /home/runner/.x-repo/github.com/sindresorhus/np
-collectedAt: 2026-09-08T01:37:22Z
+collectedAt: 2026-09-08T03:33:43Z
 loc:
   JavaScript:
     code: 8000
