@@ -5,9 +5,9 @@ A better `npm publish`
 - **Upstream**: <https://github.com/sindresorhus/np>
 - **Homepage**: <>
 - **Latest release**: `v12.1.0` (2026-09-01)
-- **Last commit**: 2026-09-01
+- **Last commit**: 2026-09-09
 - **License**: MIT
-- **Stars**: 7714 · **Forks**: 311 · **Open issues**: 501 · **Contributors**: 95
+- **Stars**: 7713 · **Forks**: 311 · **Open issues**: 502 · **Contributors**: 95
 
 ## Installation
 
@@ -21,4 +21,4 @@ See <https://x-cmd.com/install/np> for details.
 
 This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
 
-_Last regenerated: 2026-09-09T02:28:12Z._
+_Last regenerated: 2026-09-09T18:27:07Z._
