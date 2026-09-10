@@ -12,6 +12,27 @@ A better `npm publish`
 x install np
 ```
 
+## Code insight
+
+Total: **8,347** lines of code across **149** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| JavaScript | 8,008 | 610 | 1,424 | 107 |
+| Json | 232 | 0 | 0 | 22 |
+| TypeScript | 107 | 39 | 32 | 12 |
+| Markdown | 0 | 225 | 101 | 8 |
+
+## OpenSSF Scorecard
+
+Overall score: **3.9 / 10**
+
+Lowest-scoring checks:
+
+- **Code-Review** (1/10) — Found 4/30 approved changesets -- score normalized to 1
+- **Packaging** (-1/10) — packaging workflow not detected
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+
 ## Source
 
 - **Upstream**: <https://github.com/sindresorhus/np>
@@ -35,29 +56,11 @@ x install np
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
 | 30d | 2026-08-11 | 2 | 0 | 0 | 1 | 1 | 8 |
+| last60d | 2026-07-12 | 4 | 4 | 0 | 3 | 1 | 12 |
 | 90d | 2026-06-12 | 5 | 5 | 0 | 4 | 1 | 18 |
+| last180d | 2026-03-14 | 9 | 8 | 0 | 15 | 2 | 32 |
 | 360d | 2025-09-15 | 13 | 10 | 0 | 18 | 2 | 85 |
-
-## Code size
-
-Total: **8,347** lines of code across **149** files in the top 5 languages.
-
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| JavaScript | 8,008 | 610 | 1,424 | 107 |
-| Json | 232 | 0 | 0 | 22 |
-| TypeScript | 107 | 39 | 32 | 12 |
-| Markdown | 0 | 225 | 101 | 8 |
-
-## OpenSSF Scorecard
-
-Overall score: **3.9 / 10**
-
-Lowest-scoring checks:
-
-- **Code-Review** (1/10) — Found 4/30 approved changesets -- score normalized to 1
-- **Packaging** (-1/10) — packaging workflow not detected
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+| last720d | 2024-09-20 | 15 | 13 | 0 | 24 | 2 | 97 |
 
 ## Improve this data
 
@@ -68,4 +71,4 @@ Install metadata for np lives in the [x-cmd/install](https://github.com/x-cmd/in
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T15:59:40Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T21:17:46Z._
