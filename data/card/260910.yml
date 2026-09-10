@@ -7,7 +7,7 @@ about:
   latestVersion: "v12.1.1"
   latestRelease: "v12.1.1"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T15:59:36Z
+  collectedAt: 2026-09-10T21:17:39Z
 timeline:
   created: 2015-08-16
   lastCommit: 2026-09-09
@@ -83,7 +83,7 @@ total:
   commit: 500
 ---
 path: /home/runner/.x-repo/github.com/sindresorhus/np
-collectedAt: 2026-09-10T15:59:37Z
+collectedAt: 2026-09-10T21:17:41Z
 loc:
   JavaScript:
     code: 8008
