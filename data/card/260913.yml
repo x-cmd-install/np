@@ -194,4 +194,3 @@ checks:
     details:
       - 'Warn: 0 commits out of 8 are checked with a SAST tool'
 ---
-{"id":385757002,"author":{"login":"sindresorhus","id":170270,"node_id":"MDQ6VXNlcjE3MDI3MA==","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOAm6ogs4W_i9K","tag_name":"v12.1.1","target_commitish":"main","name":"","draft":false,"immutable":false,"prerelease":false,"created_at":"2026-09-09T18:23:59Z","updated_at":"2026-09-09T18:34:57Z","published_at":"2026-09-09T18:34:57Z","assets":[],"body":"- Fix OTP prompt failing with \u201cYou provided an invalid object where a stream was expected\u201d  ef049bd\r\n\r\n---\r\n\r\nhttps://github.com/sindresorhus/np/compare/v12.1.0...v12.1.1"}
