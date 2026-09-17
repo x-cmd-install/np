@@ -29,8 +29,8 @@ Overall score: **3.9 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (1/10) — Found 4/30 approved changesets -- score normalized to 1
 - **Packaging** (-1/10) — packaging workflow not detected
+- **Code-Review** (1/10) — Found 3/30 approved changesets -- score normalized to 1
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
 ## Source
@@ -55,12 +55,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-17 | 2 | 0 | 0 | 1 | 1 | 8 |
-| last60d | 2026-07-18 | 3 | 0 | 0 | 3 | 1 | 10 |
-| 90d | 2026-06-18 | 5 | 5 | 0 | 4 | 1 | 18 |
-| last180d | 2026-03-20 | 9 | 8 | 0 | 15 | 2 | 32 |
-| 360d | 2025-09-21 | 13 | 10 | 0 | 18 | 2 | 85 |
-| last720d | 2024-09-26 | 15 | 13 | 0 | 24 | 2 | 97 |
+| 30d | 2026-08-18 | 2 | 0 | 0 | 1 | 1 | 8 |
+| last60d | 2026-07-19 | 3 | 0 | 0 | 3 | 1 | 10 |
+| 90d | 2026-06-19 | 5 | 5 | 0 | 4 | 1 | 18 |
+| last180d | 2026-03-21 | 9 | 8 | 0 | 15 | 2 | 32 |
+| 360d | 2025-09-22 | 13 | 10 | 0 | 18 | 2 | 85 |
+| last720d | 2024-09-27 | 15 | 13 | 0 | 24 | 2 | 97 |
 
 ## Improve this data
 
@@ -71,4 +71,4 @@ Install metadata for np lives in the [x-cmd/install](https://github.com/x-cmd/in
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260916.yml` · 2026-09-16T02:44:18Z._
+_Snapshot: `data/card/260917.yml` · 2026-09-17T02:47:51Z._
