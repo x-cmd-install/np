@@ -4,7 +4,7 @@
 
 A better `npm publish`
 
-[![x-cmd/install — np Code Quality Monitoring Repo Card](https://repo.x-cmd.io/np.svg?lang=zh)](https://x-cmd.com/install/np)
+[![x-cmd/install — np Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/np.svg?lang=zh)](https://x-cmd.com/install/np)
 
 ## 安装
 
@@ -29,8 +29,8 @@ x install np
 
 评分最低的几项:
 
-- **Packaging** (-1/10) — packaging workflow not detected
 - **Code-Review** (1/10) — Found 3/30 approved changesets -- score normalized to 1
+- **Packaging** (-1/10) — packaging workflow not detected
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
 ## 源代码
@@ -55,12 +55,12 @@ x install np
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 2 | 0 | 0 | 1 | 1 | 8 |
-| last60d | 2026-07-24 | 3 | 0 | 0 | 3 | 1 | 10 |
-| 90d | 2026-06-24 | 5 | 5 | 0 | 4 | 1 | 18 |
-| last180d | 2026-03-26 | 9 | 8 | 0 | 15 | 2 | 31 |
-| 360d | 2025-09-27 | 13 | 10 | 0 | 18 | 2 | 85 |
-| last720d | 2024-10-02 | 15 | 13 | 0 | 24 | 2 | 97 |
+| 30d | 2026-08-24 | 2 | 0 | 0 | 1 | 1 | 8 |
+| last60d | 2026-07-25 | 3 | 0 | 0 | 3 | 1 | 10 |
+| 90d | 2026-06-25 | 5 | 5 | 0 | 4 | 1 | 18 |
+| last180d | 2026-03-27 | 9 | 8 | 0 | 15 | 2 | 31 |
+| 360d | 2025-09-28 | 13 | 10 | 0 | 18 | 2 | 85 |
+| last720d | 2024-10-03 | 15 | 13 | 0 | 24 | 2 | 97 |
 
 ## 改进这些数据
 
@@ -71,4 +71,4 @@ np 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索�
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T02:43:34Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T02:43:46Z._
