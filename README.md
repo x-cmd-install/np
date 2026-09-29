@@ -55,12 +55,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-29 | 2 | 0 | 0 | 1 | 1 | 2 |
-| last60d | 2026-07-30 | 3 | 0 | 0 | 2 | 1 | 8 |
-| 90d | 2026-06-30 | 5 | 5 | 0 | 4 | 1 | 18 |
-| last180d | 2026-04-01 | 9 | 8 | 0 | 15 | 2 | 28 |
-| 360d | 2025-10-03 | 13 | 10 | 0 | 18 | 2 | 85 |
-| last720d | 2024-10-08 | 15 | 13 | 0 | 24 | 2 | 97 |
+| 30d | 2026-08-30 | 2 | 0 | 0 | 1 | 1 | 2 |
+| last60d | 2026-07-31 | 2 | 0 | 0 | 2 | 1 | 8 |
+| 90d | 2026-07-01 | 5 | 5 | 0 | 4 | 1 | 18 |
+| last180d | 2026-04-02 | 9 | 8 | 0 | 15 | 2 | 28 |
+| 360d | 2025-10-04 | 13 | 10 | 0 | 18 | 2 | 85 |
+| last720d | 2024-10-09 | 15 | 13 | 0 | 24 | 2 | 97 |
 
 ## Improve this data
 
@@ -71,4 +71,4 @@ Install metadata for np lives in the [x-cmd/install](https://github.com/x-cmd/in
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260928.yml` · 2026-09-28T02:55:25Z._
+_Snapshot: `data/card/260929.yml` · 2026-09-29T03:35:53Z._
