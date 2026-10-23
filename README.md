@@ -29,8 +29,8 @@ Overall score: **3.9 / 10**
 
 Lowest-scoring checks:
 
-- **Packaging** (-1/10) — packaging workflow not detected
 - **Code-Review** (1/10) — Found 3/30 approved changesets -- score normalized to 1
+- **Packaging** (-1/10) — packaging workflow not detected
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
 ## Source
@@ -45,22 +45,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 7,711 · **Forks**: 311 · **Open issues**: 502 · **Contributors**: 95
+- **Stars**: 7,710 · **Forks**: 311 · **Open issues**: 506 · **Contributors**: 95
 
 ## Totals (cumulative)
 
-- **Releases**: 68 · **Merged PRs**: 218 · **Open PRs**: 0 · **Closed issues**: 498 · **Open issues**: 4 · **Commits**: 500
+- **Releases**: 68 · **Merged PRs**: 218 · **Open PRs**: 0 · **Closed issues**: 499 · **Open issues**: 7 · **Commits**: 500
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-23 | 2 | 0 | 0 | 1 | 1 | 8 |
-| 90d | 2026-07-24 | 3 | 0 | 0 | 3 | 1 | 10 |
-| last180d | 2026-04-25 | 6 | 5 | 0 | 9 | 1 | 20 |
-| 360d | 2025-10-27 | 13 | 10 | 0 | 18 | 2 | 85 |
-| last720d | 2024-11-01 | 15 | 13 | 0 | 24 | 2 | 97 |
+| 30d | 2026-09-23 | 0 | 0 | 0 | 1 | 3 | 0 |
+| last60d | 2026-08-24 | 2 | 0 | 0 | 2 | 4 | 8 |
+| 90d | 2026-07-25 | 3 | 0 | 0 | 4 | 4 | 10 |
+| last180d | 2026-04-26 | 6 | 5 | 0 | 10 | 4 | 20 |
+| 360d | 2025-10-28 | 13 | 10 | 0 | 19 | 5 | 85 |
+| last720d | 2024-11-02 | 15 | 13 | 0 | 25 | 5 | 97 |
 
 ## Improve this data
 
@@ -71,4 +71,4 @@ Install metadata for np lives in the [x-cmd/install](https://github.com/x-cmd/in
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T02:46:04Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T02:49:52Z._

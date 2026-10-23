@@ -29,8 +29,8 @@ x install np
 
 评分最低的几项:
 
-- **Packaging** (-1/10) — packaging workflow not detected
 - **Code-Review** (1/10) — Found 3/30 approved changesets -- score normalized to 1
+- **Packaging** (-1/10) — packaging workflow not detected
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
 ## 源代码
@@ -45,22 +45,22 @@ x install np
 
 ## 流行度
 
-- **Star**: 7,711 · **Fork**: 311 · **开放 issue**: 502 · **贡献者**: 95
+- **Star**: 7,710 · **Fork**: 311 · **开放 issue**: 506 · **贡献者**: 95
 
 ## 累计统计
 
-- **发布数**: 68 · **已合并 PR**: 218 · **开放 PR**: 0 · **已关闭 issue**: 498 · **开放 issue**: 4 · **提交数**: 500
+- **发布数**: 68 · **已合并 PR**: 218 · **开放 PR**: 0 · **已关闭 issue**: 499 · **开放 issue**: 7 · **提交数**: 500
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-23 | 2 | 0 | 0 | 1 | 1 | 8 |
-| 90d | 2026-07-24 | 3 | 0 | 0 | 3 | 1 | 10 |
-| last180d | 2026-04-25 | 6 | 5 | 0 | 9 | 1 | 20 |
-| 360d | 2025-10-27 | 13 | 10 | 0 | 18 | 2 | 85 |
-| last720d | 2024-11-01 | 15 | 13 | 0 | 24 | 2 | 97 |
+| 30d | 2026-09-23 | 0 | 0 | 0 | 1 | 3 | 0 |
+| last60d | 2026-08-24 | 2 | 0 | 0 | 2 | 4 | 8 |
+| 90d | 2026-07-25 | 3 | 0 | 0 | 4 | 4 | 10 |
+| last180d | 2026-04-26 | 6 | 5 | 0 | 10 | 4 | 20 |
+| 360d | 2025-10-28 | 13 | 10 | 0 | 19 | 5 | 85 |
+| last720d | 2024-11-02 | 15 | 13 | 0 | 25 | 5 | 97 |
 
 ## 改进这些数据
 
@@ -71,4 +71,4 @@ np 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索�
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261022.yml` · 2026-10-22T02:46:04Z._
+_数据快照: `data/card/261023.yml` · 2026-10-23T02:49:53Z._
