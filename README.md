@@ -14,14 +14,14 @@ x install np
 
 ## Code insight
 
-Total: **8,347** lines of code across **149** files in the top 5 languages.
+Total: **15,543** lines of code across **186** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| JavaScript | 8,008 | 610 | 1,424 | 107 |
-| Json | 232 | 0 | 0 | 22 |
-| TypeScript | 107 | 39 | 32 | 12 |
-| Markdown | 0 | 225 | 101 | 8 |
+| JavaScript | 15,227 | 1,064 | 2,300 | 145 |
+| Json | 231 | 0 | 0 | 22 |
+| TypeScript | 85 | 39 | 26 | 11 |
+| Markdown | 0 | 241 | 112 | 8 |
 
 ## OpenSSF Scorecard
 
@@ -41,26 +41,26 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v12.1.1` (2026-09-09)
-- **Last commit**: 2026-09-09
+- **Last commit**: 2026-10-23
 
 ## Popularity
 
-- **Stars**: 7,710 · **Forks**: 311 · **Open issues**: 506 · **Contributors**: 95
+- **Stars**: 7,710 · **Forks**: 312 · **Open issues**: 507 · **Contributors**: 95
 
 ## Totals (cumulative)
 
-- **Releases**: 68 · **Merged PRs**: 218 · **Open PRs**: 0 · **Closed issues**: 499 · **Open issues**: 7 · **Commits**: 500
+- **Releases**: 68 · **Merged PRs**: 218 · **Open PRs**: 0 · **Closed issues**: 504 · **Open issues**: 3 · **Commits**: 524
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-23 | 0 | 0 | 0 | 1 | 3 | 0 |
-| last60d | 2026-08-24 | 2 | 0 | 0 | 2 | 4 | 8 |
-| 90d | 2026-07-25 | 3 | 0 | 0 | 4 | 4 | 10 |
-| last180d | 2026-04-26 | 6 | 5 | 0 | 10 | 4 | 20 |
-| 360d | 2025-10-28 | 13 | 10 | 0 | 19 | 5 | 85 |
-| last720d | 2024-11-02 | 15 | 13 | 0 | 25 | 5 | 97 |
+| 30d | 2026-09-24 | 0 | 0 | 0 | 4 | 1 | 24 |
+| last60d | 2026-08-25 | 2 | 0 | 0 | 5 | 2 | 32 |
+| 90d | 2026-07-26 | 3 | 0 | 0 | 7 | 2 | 34 |
+| last180d | 2026-04-27 | 6 | 5 | 0 | 13 | 2 | 44 |
+| 360d | 2025-10-29 | 13 | 10 | 0 | 23 | 2 | 109 |
+| last720d | 2024-11-03 | 15 | 13 | 0 | 29 | 2 | 121 |
 
 ## Improve this data
 
@@ -71,4 +71,4 @@ Install metadata for np lives in the [x-cmd/install](https://github.com/x-cmd/in
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261023.yml` · 2026-10-23T02:49:52Z._
+_Snapshot: `data/card/261024.yml` · 2026-10-24T02:47:00Z._
