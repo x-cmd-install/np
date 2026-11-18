@@ -25,13 +25,13 @@ x install np
 
 ## OpenSSF Scorecard 评分
 
-总评分: **3.9 / 10**
+总评分: **3.8 / 10**
 
 评分最低的几项:
 
-- **Code-Review** (1/10) — Found 3/30 approved changesets -- score normalized to 1
 - **Packaging** (-1/10) — packaging workflow not detected
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+- **Code-Review** (0/10) — Found 0/30 approved changesets -- score normalized to 0
 
 ## 源代码
 
@@ -55,12 +55,12 @@ x install np
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-18 | 0 | 0 | 0 | 5 | 0 | 9 |
-| last60d | 2026-09-18 | 0 | 0 | 0 | 5 | 0 | 26 |
-| 90d | 2026-08-19 | 2 | 0 | 0 | 6 | 1 | 34 |
-| last180d | 2026-05-21 | 5 | 5 | 0 | 13 | 1 | 44 |
-| 360d | 2025-11-22 | 13 | 9 | 0 | 23 | 1 | 111 |
-| last720d | 2024-11-27 | 14 | 12 | 0 | 30 | 1 | 119 |
+| 30d | 2026-10-19 | 0 | 0 | 0 | 5 | 0 | 9 |
+| last60d | 2026-09-19 | 0 | 0 | 0 | 5 | 0 | 26 |
+| 90d | 2026-08-20 | 2 | 0 | 0 | 6 | 1 | 34 |
+| last180d | 2026-05-22 | 5 | 5 | 0 | 13 | 1 | 44 |
+| 360d | 2025-11-23 | 13 | 9 | 0 | 23 | 1 | 111 |
+| last720d | 2024-11-28 | 14 | 12 | 0 | 30 | 1 | 119 |
 
 ## 改进这些数据
 
@@ -71,4 +71,4 @@ np 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索�
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261117.yml` · 2026-11-17T05:57:29Z._
+_数据快照: `data/card/261118.yml` · 2026-11-18T05:28:49Z._
