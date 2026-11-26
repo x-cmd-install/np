@@ -45,7 +45,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 7,714 · **Forks**: 315 · **Open issues**: 507 · **Contributors**: 95
+- **Stars**: 7,713 · **Forks**: 314 · **Open issues**: 507 · **Contributors**: 95
 
 ## Totals (cumulative)
 
@@ -55,12 +55,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-26 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-26 | 0 | 0 | 0 | 5 | 0 | 25 |
-| 90d | 2026-08-27 | 2 | 0 | 0 | 6 | 1 | 34 |
-| last180d | 2026-05-29 | 5 | 5 | 0 | 10 | 1 | 44 |
-| 360d | 2025-11-30 | 13 | 9 | 0 | 23 | 1 | 111 |
-| last720d | 2024-12-05 | 14 | 12 | 0 | 30 | 1 | 119 |
+| 30d | 2026-10-27 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-27 | 0 | 0 | 0 | 5 | 0 | 25 |
+| 90d | 2026-08-28 | 2 | 0 | 0 | 6 | 1 | 34 |
+| last180d | 2026-05-30 | 5 | 5 | 0 | 10 | 1 | 44 |
+| 360d | 2025-12-01 | 13 | 9 | 0 | 23 | 1 | 111 |
+| last720d | 2024-12-06 | 14 | 12 | 0 | 30 | 1 | 119 |
 
 ## Improve this data
 
@@ -71,4 +71,4 @@ Install metadata for np lives in the [x-cmd/install](https://github.com/x-cmd/in
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261125.yml` · 2026-11-25T06:23:51Z._
+_Snapshot: `data/card/261126.yml` · 2026-11-26T06:17:07Z._
